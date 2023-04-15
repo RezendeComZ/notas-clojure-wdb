@@ -1,4 +1,4 @@
-(ns api-clojure-sem-db-2.handler
+(ns notas-clojure-wdb.handler
   (:require [compojure.core :refer :all]
             [compojure.route :as route]
             [ring.util.response :refer [response]]

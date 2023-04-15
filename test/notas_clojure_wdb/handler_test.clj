@@ -1,7 +1,7 @@
-(ns api-clojure-sem-db-2.handler-test
+(ns notas-clojure-wdb.handler-test
   (:require [clojure.test :refer :all]
             [ring.mock.request :as mock]
-            [api-clojure-sem-db-2.handler :refer :all]))
+            [notas-clojure-wdb.handler :refer :all]))
 
 (deftest test-app
   (testing "main route"

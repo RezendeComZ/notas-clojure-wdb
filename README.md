@@ -1,6 +1,6 @@
-# api-clojure-sem-db-2
+# notas-clojure-wdb
 
-FIXME
+A Clojure Notes app without database.
 
 ## Prerequisites
 
@@ -14,8 +14,8 @@ To start a web server for the application, run:
 
     lein ring server 3002
 
-Deu certo também: lein ring server-headless 
+Also works: lein ring server-headless 
 
 ## License
 
-Copyright © 2023 FIXME
+Copyright © 2023
